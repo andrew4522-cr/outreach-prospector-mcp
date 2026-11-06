@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "outreach-prospector-mcp"
+version = "1.2.0"
+description = "Zero-Cost Waterfall Enrichment, 6-ATS Public API Scanner & Hard Pre-Send Gate MCP Server"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+authors = [
+    { name = "Andrew Anderson", email = "andrew@cult.rent" }
+]
+keywords = ["mcp", "model-context-protocol", "b2b-prospecting", "waterfall-enrichment", "ats-scanner", "outreach"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+]
+
+[project.urls]
+Homepage = "https://www.bridgingtheaigap.com"
+Repository = "https://github.com/andrew4522-cr/outreach-prospector-mcp"
+
+[project.scripts]
+outreach-prospector-mcp = "outreach_prospector_mcp.server:main"
