@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-3776AB.svg)](https://www.python.org/)
 [![MCP: Stdio JSON-RPC 2.0](https://img.shields.io/badge/MCP-Stdio%20JSON--RPC%202.0-8A2BE2)](https://modelcontextprotocol.io)
+[![andrew4522-cr/outreach-prospector-mcp MCP server](https://glama.ai/mcp/servers/andrew4522-cr/outreach-prospector-mcp/badges/score.svg)](https://glama.ai/mcp/servers/andrew4522-cr/outreach-prospector-mcp)
 
 > **Enterprise B2B & Executive Prospecting without the $500/mo SaaS bloat.** A zero-dependency Model Context Protocol (MCP) server combining clean Markdown web scraping, live 6-ATS job board discovery, 4-stage executive waterfall enrichment, and hard pre-send quality gates.
 
